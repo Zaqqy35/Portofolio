@@ -1,0 +1,28 @@
+
+:root {
+    /* Background */
+    --bg-primary: #0B1120;
+    --bg-secondary: #111B2E;
+    --bg-card: #172033;
+
+    /* Colors */
+    --color-primary: #2563EB;
+    --color-accent: #60A5FA;
+    --color-text: #E2E8F0;
+    --color-muted: #94A3B8;
+
+    /* Typography */
+    --font-heading: 'Space Grotesk', sans-serif;
+    --font-body: 'DM Sans', sans-serif;
+
+    /* Layout */
+    --container-width: 1200px;
+    --section-spacing: 100px;
+
+    /* Border */
+    --border-color: rgba(148, 163, 184, 0.15);
+    --border-radius: 16px;
+
+    /* Transition */
+    --transition: 0.3s ease;
+}
